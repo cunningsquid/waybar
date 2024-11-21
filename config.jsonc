@@ -25,6 +25,7 @@
 		"memory",
 		"cpu",
     		"temp",
+		"memory",
 		"disk",
 		"tray",
 		"custom/right-arrow-dark"
